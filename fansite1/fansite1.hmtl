@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marvel Archives</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Main website header -->
+    <header>
+        <h1>MON SITE</h1>
+
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="#">Autre page</a>
+            <a href="marvel.html">Marvel Archives</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Marvel Archives content -->
+    <main>
+
+        <section id="intro">
+            <h2>Marvel Archives</h2>
+
+            <p>
+                Explorez l'univers Marvel à travers ses héros,
+                ses films, ses bandes dessinées et ses équipes légendaires.
+            </p>
+        </section>
+
+        <section id="characters">
+            <h2>Personnages emblématiques</h2>
+        </section>
+
+        <section id="movies">
+            <h2>Films et séries</h2>
+        </section>
+
+        <section id="comics">
+            <h2>Collection de bandes dessinées</h2>
+        </section>
+
+        <section id="teams">
+            <h2>Équipes emblématiques</h2>
+        </section>
+
+    </main>
+
+    <!-- Main website footer -->
+    <footer>
+        <nav>
+            <a href="index.html">Accueil</a>
+            <a href="#">Autre page</a>
+            <a href="marvel.html">Marvel Archives</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+
+        <p>Marvel Archives - Fan Project</p>
+    </footer>
+
+</body>
+</html>
+
